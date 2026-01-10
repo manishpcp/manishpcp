@@ -1,5 +1,3 @@
-# Under Construction
-
 # 👋 Hi there, I'm Manish Kumar!
 
 ## 🚀 DevOps Engineer | AWS Architect | Cloud Monitoring | AWS FinOps | Cloudflare
