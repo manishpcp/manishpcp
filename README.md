@@ -66,7 +66,7 @@ Programming:
 
 ## 📚 Current Projects
 
-### 🔍 AWS Monitoring Deep Dive[8]
+### 🔍 AWS Monitoring Deep Dive
 Working on comprehensive documentation and practical examples for AWS monitoring services, including:
 - Implementation guides for CloudWatch best practices
 - Real-world monitoring scenarios and solutions
