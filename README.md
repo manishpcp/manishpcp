@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Manish Kumar!
 
-## 🚀 DevOps Engineer | AWS Architect | Cloud Monitoring | AWS FinOps | Cloudflare
+## 🚀 AWS Architect | Cloud Monitoring | AWS FinOps | Cloudflare
 
 Welcome to my GitHub! I'm passionate about building scalable cloud infrastructure, implementing robust monitoring solutions, and designing enterprise-grade AWS architectures.
 
